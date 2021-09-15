@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taylor Swift</string>
+
+    <string name="new_quote">New Quote</string>
+    <string name="todo">TODO</string>
+    <string name="lover">Lover</string>
+    <string name="talyor_swift">Taylor Swift</string>
+</resources>
